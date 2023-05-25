@@ -4,12 +4,13 @@
 
 Trabajo Práctico número 2 de la materia Algoritmos y Programación III de FIUBA
 
-## Grupo {11}
+## Grupo {10}
 
 * **Lionel Maydana** - [integrante1](https://github.com/lmaydana)
-* **Integrante 2** - [integrante2](https://github.com/integrante2)
+* **Lautaro Torraca** - [integrante2](https://github.com/lautitorraca)
 * **Integrante 3** - [integrante3](https://github.com/integrante3)
 * **Integrante 4** - [integrante4](https://github.com/integrante4)
+* **Integrante 5** - [integrante5](https://github.com/integrante4)
 
 Corrector: **{Corrector}**
 
