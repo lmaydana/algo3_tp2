@@ -10,7 +10,7 @@ Trabajo Práctico número 2 de la materia Algoritmos y Programación III de FIUB
 * **Lautaro Torraca** - [integrante2](https://github.com/lautitorraca)
 * **Cristian Roldán** - [integrante3]( https://github.com/CrissRM )
 * **Miguel Metz** - [integrante4](https://github.com/MiguelMetz1)
-* **Ramiro Mantero** - [integrante5](https://github.com/ramiromantero))
+* **Ramiro Mantero** - [integrante5](https://github.com/ramiromantero)
 
 Corrector: **{Corrector}**
 
