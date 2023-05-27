@@ -12,6 +12,8 @@ jobs:
         run: docker-compose -f docker/docker-compose.yaml exec -T app bash scripts/build.sh
       - name: Upload coverage report
         uses: codecov/codecov-action@v3
+      - with:
+          node-version: 16
 
   package:
     runs-on: ubuntu-20.04
