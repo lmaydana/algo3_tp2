@@ -30,4 +30,7 @@ public class Hormiga extends Enemigo{
     public int verEnergia(){
         return this.energia;
     }
+
+
+
 }
