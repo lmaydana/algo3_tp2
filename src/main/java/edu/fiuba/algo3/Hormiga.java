@@ -2,7 +2,7 @@ package edu.fiuba.algo3;
 
 public class Hormiga extends Enemigo{
 
-    private Pasarela posicionActual;
+    //private Pasarela posicionActual;
     private int velocidad;
     private int danioBase;
     private int energia;
@@ -24,6 +24,6 @@ public class Hormiga extends Enemigo{
     }
 
     public void avanzar(){
-        this.posicionActual = this.posicionActual.avanzar(this.velocidad);
+        //this.posicionActual = this.posicionActual.avanzar(this.velocidad);
     }
 }

@@ -12,9 +12,19 @@ public class Jugador {
         this.vida = 20;
     }
 
+    public int vida() {
+        return this.vida;
+    }
+
+    public int creditos() {
+        return this.creditos;
+    }
+
+/*
     public void construir( Defensa defensa ){
         this.creditos -= defensa.costo();
     }
+*/
 
     public void recibirDanio( int danio ){//Si vida es 0 crear finalizarJuego()
         this.vida -= danio;

@@ -2,7 +2,7 @@ package edu.fiuba.algo3;
 
 public abstract class Enemigo {
 
-    private Pasarela posicionActual;
+    //private Pasarela posicionActual;
     private int velocidad;
     private int danioBase;
     private int energia;
