@@ -26,4 +26,8 @@ public class Hormiga extends Enemigo{
     public void avanzar(){
         //this.posicionActual = this.posicionActual.avanzar(this.velocidad);
     }
+
+    public int verEnergia(){
+        return this.energia;
+    }
 }
