@@ -1,6 +1,6 @@
 package edu.fiuba.algo3;
 
-public class TorrePlateada {
+public class TorrePlateada extends Defensa {
 
     int costo = 20;
     int tiempoDeConstruccion = 2;
