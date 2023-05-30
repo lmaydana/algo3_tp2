@@ -1,6 +1,6 @@
 package edu.fiuba.algo3;
 
-public class TorreBlanca {
+public class TorreBlanca extends Defensa {
 
     int costo = 10;
     int tiempoDeConstruccion = 1;
@@ -12,4 +12,5 @@ public class TorreBlanca {
         }
         return true;
     }
+
 }
