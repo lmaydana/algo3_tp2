@@ -1,5 +1,8 @@
+package edu.fiuba.algo3;
+
 public class Arania extends Enemigo{
 
+    private Pasarela posicionActual;
     private int velocidad;
     private int danioBase;
     private int energia;
@@ -18,5 +21,9 @@ public class Arania extends Enemigo{
 
     public void recibirDanio( int danioRecibido ){
         this.energia -= danioRecibido;
+    }
+
+    public void avanzar(){
+        this.posicionActual = this.posicionActual.avanzar(this.velocidad);
     }
 }

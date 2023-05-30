@@ -1,4 +1,7 @@
+package edu.fiuba.algo3;
+
 public class Jugador {
+
     private int creditos;
     private int vida;
     private String nombre;
